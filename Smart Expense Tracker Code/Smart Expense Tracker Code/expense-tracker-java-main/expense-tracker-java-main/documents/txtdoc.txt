@@ -1,0 +1,77 @@
+Username: Kacper
+Transaction Dates: 
+06/23/2024—10/15/2024
+Report Generated on:
+09/02/2024 13:53:40
+
+Balance:
+1679.01
+Total Expenses:
+7520.99
+Total Income:
+9200.00
+Transaction History
+--------------------
+Transaction #1
+ - Amount: 150.00
+ - Date: 2024-10-15
+ - Type: Expense
+ - Category: Food and Drinks
+ - Description: Light meal in the cafe and four espresso shots.
+
+Transaction #2
+ - Amount: 20.00
+ - Date: 2024-09-01
+ - Type: Expense
+ - Category: Gifts and Donations
+ - Description: Tip for the waiter
+
+Transaction #3
+ - Amount: 4000.00
+ - Date: 2024-08-28
+ - Type: Income
+ - Category: Freelance
+ - Description: I got some money working on a freelance project
+
+Transaction #4
+ - Amount: 3000.00
+ - Date: 2024-08-28
+ - Type: Expense
+ - Category: Technology
+ - Description: I bought an IPhone 15 Pro
+
+Transaction #5
+ - Amount: 1800.00
+ - Date: 2024-08-28
+ - Type: Expense
+ - Category: Accommodation
+ - Description: I had to pay for my apartament in Warsaw.
+
+Transaction #6
+ - Amount: 5200.00
+ - Date: 2024-08-24
+ - Type: Income
+ - Category: Salary
+ - Description: Salary for my software enginnering position in your company in the future :)
+
+Transaction #7
+ - Amount: 100.00
+ - Date: 2024-07-15
+ - Type: Expense
+ - Category: Health and Beauty
+ - Description: Skin care products and hair mask.
+
+Transaction #8
+ - Amount: 2300.00
+ - Date: 2024-07-03
+ - Type: Expense
+ - Category: Travel
+ - Description: Went to Turkey for the summer holydays.
+
+Transaction #9
+ - Amount: 150.99
+ - Date: 2024-06-23
+ - Type: Expense
+ - Category: House and Garden
+ - Description: Garden hose and watering can for my garden
+
